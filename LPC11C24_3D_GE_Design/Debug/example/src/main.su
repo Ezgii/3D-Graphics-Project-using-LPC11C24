@@ -1,0 +1,14 @@
+../example/src/main.c:30:6:initialize	32	static
+../example/src/main.c:44:14:transform	56	static
+../example/src/main.c:66:14:calc_normal_vector	72	static
+../example/src/main.c:88:5:calc_diffuse_reflection	56	static
+../example/src/main.c:107:6:paint_rectangle	88	static
+../example/src/main.c:143:6:rotating_squares	72	static
+../example/src/main.c:195:6:draw_single_branch	104	static
+../example/src/main.c:229:6:draw_three_branches	40	static
+../example/src/main.c:244:6:forest	200	static
+../example/src/main.c:316:6:write_initials	64	static
+../example/src/main.c:360:6:draw_coordinates	48	static
+../example/src/main.c:385:6:draw_cube	96	static
+../example/src/main.c:481:6:draw_sphere	96	static
+../example/src/main.c:540:5:main	16	static

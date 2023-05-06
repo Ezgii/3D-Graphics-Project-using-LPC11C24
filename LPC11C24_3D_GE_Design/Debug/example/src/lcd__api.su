@@ -1,0 +1,13 @@
+../example/src/lcd__api.c:98:13:Buffer_Init	0	static
+../example/src/lcd__api.c:163:13:sspSend.constprop	8	static
+../example/src/lcd__api.c:225:13:writedata	8	static
+../example/src/lcd__api.c:244:13:writecolor	32	static
+../example/src/lcd__api.c:233:13:writecoord	8	static
+../example/src/lcd__api.c:217:13:writecommand	8	static
+../example/src/lcd__api.c:281:6:fillrect	24	static
+../example/src/lcd__api.c:297:6:lcddelay	0	static
+../example/src/lcd__api.c:305:6:lcd_init	8	static
+../example/src/lcd__api.c:333:6:board_init	8	static
+../example/src/lcd__api.c:339:6:ssp0_init	16	static
+../example/src/lcd__api.c:353:6:drawPixel	16	static
+../example/src/lcd__api.c:364:6:drawLine	48	static

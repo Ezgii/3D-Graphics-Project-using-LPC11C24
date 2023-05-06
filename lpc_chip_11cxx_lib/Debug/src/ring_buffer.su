@@ -1,0 +1,9 @@
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/ring_buffer.h:103:19:RingBuffer_GetCount	16	static
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/ring_buffer.h:113:19:RingBuffer_GetFree	24	static
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/ring_buffer.h:123:19:RingBuffer_IsFull	16	static
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/ring_buffer.h:133:19:RingBuffer_IsEmpty	16	static
+../src/ring_buffer.c:55:5:RingBuffer_Init	24	static
+../src/ring_buffer.c:66:5:RingBuffer_Insert	24	static
+../src/ring_buffer.c:82:5:RingBuffer_InsertMult	40	static
+../src/ring_buffer.c:118:5:RingBuffer_Pop	24	static
+../src/ring_buffer.c:134:5:RingBuffer_PopMult	40	static

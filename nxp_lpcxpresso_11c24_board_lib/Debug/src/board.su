@@ -1,0 +1,17 @@
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/iocon_11xx.h:249:20:Chip_IOCON_PinMuxSet	24	static
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/uart_11xx.h:300:20:Chip_UART_TXEnable	16	static
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/uart_11xx.h:404:20:Chip_UART_SetupFIFOS	16	static
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/uart_11xx.h:419:20:Chip_UART_ConfigData	16	static
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/gpio_11xx_2.h:102:20:Chip_GPIO_SetPinState	24	static
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/gpio_11xx_2.h:128:20:Chip_GPIO_GetPinState	16	static
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/gpio_11xx_2.h:153:20:Chip_GPIO_SetPinDIROutput	16	static
+/Users/ezgikaya/Documents/MCUXpressoIDE_11.7.0_9198/Ezgi_workspace/lpc_chip_11cxx_lib/inc/gpio_11xx_2.h:401:20:Chip_GPIO_SetPinToggle	24	static
+../src/board.c:56:6:Board_UARTPutChar	16	static
+../src/board.c:64:5:Board_UARTGetChar	16	static
+../src/board.c:77:6:Board_UARTPutSTR	16	static
+../src/board.c:87:6:Board_Debug_Init	8	static
+../src/board.c:103:13:Board_LED_Init	8	static
+../src/board.c:110:6:Board_LED_Set	16	static
+../src/board.c:118:6:Board_LED_Test	16	static
+../src/board.c:123:6:Board_LED_Toggle	16	static
+../src/board.c:131:6:Board_Init	8	static
