@@ -8,7 +8,7 @@ Moreover, the project includes an implementation of cube shadows, providing a co
 
 By combining advanced rendering techniques and hardware capabilities, this project showcases the potential of the LPC11C24 CPU module in creating 3D graphics on an LCD display.
 
-See [report.pdf](https://github.com/Ezgii/3D-Graphics-Project-using-LPC11C24/blob/main/report.pdf) for detailed explanation.
+See [report.pdf](https://github.com/Ezgii/3D-Graphics-Project-using-LPC11C24/blob/main/report.pdf) for technical details.
 
 
 ![image1](https://user-images.githubusercontent.com/4748948/236649739-2abfc648-4bf0-4a2a-ad88-035dd2e6e647.jpeg)
